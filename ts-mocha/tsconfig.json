@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "sourceMap": true,
+      "typeRoots": [
+        "node_modules/@types/"
+      ],
+      "types": [
+         "core-js"
+       ],
+      "lib": ["dom", "es2015"]
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+  }
