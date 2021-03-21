@@ -1,6 +1,6 @@
 # Node starter projects
 
-To tone up some flabby node muscles, this repository contains some node starters I did, mostly around setting up test frameworks, typescript support, etc.  Each directory is a separate project.  Generally they support the following to get started
+To tone up some earlier node muscles, this repository contains some node starters I did, mostly around setting up test frameworks, typescript support, etc.  Each directory is a separate project.  Generally they support the following to get started
 
 ```
 cd <some-directory>
