@@ -17,3 +17,4 @@ for imports.
 This is the simpler case.
 * ts-mocha - This project shows how to use mocha with typescript via ts-node, and supports both npm test
 and npx tsc.
+* ts-mocha-webstorm - The ts mocha project with a webstorm project and a run configuration set up to step through the tests in the debugger.  Sweet!
