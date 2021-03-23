@@ -2,14 +2,6 @@ var assert = require('assert');
 var sum = require('../sum');
 var expect = require('chai').expect;
 
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal([1, 2, 3].indexOf(4), -1);
-    });
-  });
-});
-
 describe('sum', function() {
     describe('it should sum values correctly()', function() {
       it('should sum positive values correctly', function() {
