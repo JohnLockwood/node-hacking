@@ -1,4 +1,4 @@
-import  sum  from './sum'; // this will be your custom import
+import  sum  from '../src/sum'; // this will be your custom import
 import { expect } from 'chai';
 import { describe } from 'mocha'
 
